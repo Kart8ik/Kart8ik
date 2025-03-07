@@ -21,7 +21,7 @@ I love working on **cool projects**, especially in **full-stack development, net
 - 📱 **Farmers’ Market App** – Connecting farmers directly to customers (Flutter + Firebase)    
 - 🤖 **ML Models & AI Projects**:  
   - **Handwritten Digit Recognition** (CNN + OpenCV)  
-  - **Financial Advisor AI (NeuraLend)** (LSTMs + Financial Modeling)  
+  - **Financial Advisor AI (NeuraLend)** 
 
 ---
 
