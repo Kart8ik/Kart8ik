@@ -33,7 +33,7 @@ I love working on **cool projects**, especially in **full-stack development, net
 ---
 
 ### **📫 Connect with Me:**  
-🐦 [Instagram]((https://www.instagram.com/krthk200518/)) (for my art )  
+🐦 [Instagram](https://www.instagram.com/krthk200518/) (for my art )  
 📂 [GitHub](https://github.com/Kart8ik) (for my projects)  
 
 <!---
