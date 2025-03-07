@@ -7,7 +7,7 @@ I love working on **cool projects**, especially in **full-stack development, net
 ---
 
 ### **💻 What I Do:**  
-- **Full-Stack Dev** – Python (Flask, Django), JS (React, Node.js)  
+- **Full-Stack Dev** – Python (Flask), JS (React, Node.js)  
 - **Networking & Systems** – C, Sockets, Databases  
 - **App Dev** – Flutter, Firebase  
 - **Machine Learning & AI** – OpenCV, TensorFlow, Scikit-learn  
