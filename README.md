@@ -1,7 +1,3 @@
-Gotcha! Here's your updated **README** with your ML projects included:  
-
----
-
 # **Hey, I’m Karthik! 👋**  
 
 🚀 **CS Undergrad | Dev | ML Enthusiast | Artist**  
