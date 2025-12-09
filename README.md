@@ -1,4 +1,4 @@
-# **Hey, I’m Karthik! 👋**  
+# **Hey, I’m Karthik! **  
 
 **CS Undergrad | Dev | ML Enthusiast | Artist**  
 
@@ -12,15 +12,6 @@ I love working on **cool projects**, especially in **full-stack development, net
 - **App Dev** – Flutter, Firebase  
 - **Machine Learning & AI** – OpenCV, TensorFlow, Scikit-learn  
 - **Creative Side** – Digital Art & Sketching  
-
----
-
-### **Current Projects:**  
-- **Cal Pal** – A task manager with a virtual plant reward system
-- **TCP Chat App** – Real-time chatroom using socket programming  
-- **Farmers’ Market App** – Connecting farmers directly to customers (Flutter + Firebase)    
-- 🤖 **ML Models & AI Projects**:  
-  - **Handwritten Digit Recognition** (CNN + OpenCV) 
 
 ---
 
