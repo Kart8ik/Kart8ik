@@ -1,4 +1,4 @@
-# **Hey, I’m Karthik! **  
+# **Hey, I’m Karthik!**  
 
 **CS Undergrad | Dev | ML Enthusiast | Artist**  
 
