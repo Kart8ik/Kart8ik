@@ -1,32 +1,38 @@
-# **Hey, I’m Karthik!**  
+# Hey, I’m Karthik
 
-**CS Undergrad | Dev | ML Enthusiast | Artist**  
+I’m a CS undergrad building practical software across web apps, systems, and ML.
+Most of my projects start from a simple question: what would make this easier to use in real life, and what can I learn by building it properly?
 
-I love working on **cool projects**, especially in **full-stack development, networking, and ML**. Whether it's **building real-world apps, experimenting with low-level systems and ML Models, or sketching unique art**, I'm always up for learning and creating.  
+I usually work on products end-to-end, from UI and APIs to data flow and deployment.
+Recent work includes productivity tools, analytics dashboards, and local-network communication apps.
 
----
+## About
 
-### **What I Do:**  
-- **Full-Stack Dev** – Python (Flask), JS (React, Node.js)  
-- **Networking & Systems** – C, Sockets, Databases  
-- **App Dev** – Flutter, Firebase  
-- **Machine Learning & AI** – OpenCV, TensorFlow, Scikit-learn  
-- **Creative Side** – Digital Art & Sketching  
+I like projects that have clear constraints and measurable outcomes.
+That usually means shipping a usable version first, then improving architecture, performance, and UX through iteration.
 
----
+I’m especially interested in:
+- full-stack product development
+- networking and low-level systems
+- applied ML for creative or utility-driven use cases
 
-### **Future Goals:**  
-- Build more **system-level projects** (networking, OS, etc.)  
-- Get deeper into **AI/ML** for creative applications  
-- Keep pushing my **art & design skills**  
+## Tech Stack
 
----
+- Languages: Python, C++, JavaScript, TypeScript
+- Frontend: React, Next.js, Tailwind CSS, Shadcn UI, Redux, Electron
+- Backend: Node.js, Express, FastAPI, Flask, Firebase, Supabase
+- ML/Data: PyTorch, TensorFlow, NumPy, Pandas
+- Databases: MongoDB, MySQL, PostgreSQL
+- Tools: Git, Docker, Figma, Android Studio
 
-### **Connect with Me:**  
-[Instagram](https://www.instagram.com/krthk200518/) (for my art )  
-[GitHub](https://github.com/Kart8ik) (for my projects)  
+## Current Goals
 
-<!---
-Kart8ik/Kart8ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- build stronger systems-level projects (networking and OS-oriented work)
+- go deeper into ML workflows and model integration in real apps
+- improve design quality without overengineering the implementation
+
+## Connect
+
+- Portfolio: https://shrikarthik.vercel.app/
+- GitHub: https://github.com/Kart8ik
+- Instagram (art): https://www.instagram.com/krthk200518/
